@@ -12,4 +12,4 @@ run models in terminal to interact with it. (eg: ollama run llama3.3)
 
 deepseekr1,llama,mistral.etc... are available.
 
-look for commands and paste in terminal to run the specific model
+look for commands and paste in terminal to run the specific model.
